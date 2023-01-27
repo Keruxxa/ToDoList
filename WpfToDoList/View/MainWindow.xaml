@@ -1,0 +1,146 @@
+﻿<Window x:Class="WpfToDoList.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewmodel="clr-namespace:WpfToDoList.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1200"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        Background="Transparent"
+        AllowsTransparency="True">
+
+    <Window.DataContext>
+        <viewmodel:MainViewModel/>
+    </Window.DataContext>
+
+    <Border CornerRadius="15"
+            BorderBrush="#0e123e"
+            BorderThickness="5">
+        <Grid x:Name="MainGrid"
+              Background="#0e123e">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid x:Name="LeftGrid" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="75"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Row="0" Orientation="Horizontal">
+                    <Image Source="/Images/todo_list64.png"
+                           Width="64" Height="64"
+                           Margin="15, 0, 0, 0"/>
+                    <TextBlock Text="ToDoList"
+                               Foreground="White"
+                               FontFamily="Nirmala UI"
+                               FontSize="22"
+                               HorizontalAlignment="Right"
+                               VerticalAlignment="Center"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1"
+                            Orientation="Vertical"
+                            Margin="0, 10, 0, 0">
+                    
+                    <RadioButton Name="btnTasks" Style="{DynamicResource ButtonStyle}"
+                                 Grid.Row="1"
+                                 IsChecked="True"
+                                 Command="{Binding ShowTasksView}">
+                        
+                        <StackPanel Style="{DynamicResource ButtonStackPanelStyle}">
+                            <Image Style="{DynamicResource ImageButtonStyle}" Source="/Images/tasks.png"/>
+                            <TextBlock Style="{DynamicResource TextBlockButtonStyle}" Text="Задачи"/>
+                        </StackPanel>
+                        
+                    </RadioButton>
+                    
+                    <RadioButton Name="btnImportant" Style="{DynamicResource ButtonStyle}"
+                                 Grid.Row="1"
+                                 Command="{Binding ShowImportantView}" >
+                        
+                        <StackPanel Style="{DynamicResource ButtonStackPanelStyle}">
+                            <Image Style="{DynamicResource ImageButtonStyle}" Source="/Images/favorites.png"/>
+                            <TextBlock Style="{DynamicResource TextBlockButtonStyle}" Text="Важно"/>
+                        </StackPanel>
+                        
+                    </RadioButton>
+                    
+                    <RadioButton Name="btnNotes" Style="{DynamicResource ButtonStyle}"
+                                 Grid.Row="1"
+                                 Command="{Binding ShowNotesView}">
+                        
+                        <StackPanel Style="{DynamicResource ButtonStackPanelStyle}">
+                            <Image Style="{DynamicResource ImageButtonStyle}" Source="/Images/notes.png"/>
+                            <TextBlock Style="{DynamicResource TextBlockButtonStyle}" Text="Заметки"/>
+                        </StackPanel>
+                        
+                    </RadioButton>
+                    
+                </StackPanel>
+
+            </Grid>
+
+            <Grid Name="RightGrid"
+                  Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="45"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <!--Border to DragMove()-->
+                <Border Grid.Row="0" Background="Transparent" MouseDown="Border_MouseDown">
+                </Border>
+                <!--Border to DragMove()-->
+
+
+                <!--Control Buttons-->
+                <Image x:Name="btnClose"
+                       HorizontalAlignment="Right"
+                       Height="20"
+                       Width="20"
+                       Margin="0 0 15 0"
+                       MouseDown="btnClose_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Images/cancel_white.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btnClose}" Value="True">
+                                    <Setter Property="Source" Value="/Images/cancel_red.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                </Image>
+
+                <Image x:Name="btnMin"
+                       HorizontalAlignment="Right"
+                       Height="25"
+                       Width="20"
+                       Margin="0 0 50 0"
+                       MouseDown="btnMin_MouseDown">
+                    <Image.Style>
+                        <Style TargetType="{x:Type Image}">
+                            <Setter Property="Source" Value="/Images/minimize_white.png"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding IsMouseOver, ElementName=btnMin}" Value="True">
+                                    <Setter Property="Source" Value="/Images/minimize_grey.png"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Image.Style>
+                </Image>
+                <!--Control Buttons-->
+
+                <ContentPresenter Grid.Row="1" Content="{Binding CurrentView}"/>
+
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

@@ -1,0 +1,196 @@
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe.config
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.lref
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.g.resources
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.Properties.Resources.resources
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\App.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\bin\Debug\WpfToDoList.exe.config
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\bin\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\bin\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.lref
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\App.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.g.resources
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.Properties.Resources.resources
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\MainButtons.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\Important.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\Important.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\Core\DataTemplate.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\MainButtons.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\Important.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\MainWindow.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\NotesView.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\Tasks.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\Core\DataTemplate.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\Important.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\MainWindow.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\NotesView.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList — копия\WpfToDoList\obj\Debug\View\Tasks.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe.config
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.pdb
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.AssemblyReference.cache
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\MainButtons.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Important.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\App.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.cache
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.lref
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\App.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\Core\DataTemplate.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Important.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.baml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.g.resources
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.Properties.Resources.resources
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.GenerateResource.cache
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CoreCompileInputs.cache
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.exe
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.pdb
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CopyComplete
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.g.cs
+C:\Users\79140\Desktop\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe.config
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\MainButtons.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Important.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.cache
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.lref
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\App.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\Core\DataTemplate.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Important.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.baml
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.g.resources
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.Properties.Resources.resources
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CopyComplete
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.baml
+C:\Users\DNS\Desktop\papka\MyProjects\TRYES\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CopyComplete
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe.config
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\MainButtons.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\Important.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.cache
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.lref
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\App.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\Core\DataTemplate.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\Important.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.baml
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.g.resources
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.Properties.Resources.resources
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CopyComplete
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\papka\MyProjects\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe.config
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\WpfToDoList.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.dll
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignColors.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.AssemblyReference.cache
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\MainButtons.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\Important.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\App.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.cache
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList_MarkupCompile.lref
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\App.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\Core\DataTemplate.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\MessageBoxCustom.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\Important.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\MainWindow.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\NotesView.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\View\Tasks.baml
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.g.resources
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.Properties.Resources.resources
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.GenerateResource.cache
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CoreCompileInputs.cache
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.csproj.CopyComplete
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.exe
+C:\Users\DNS\Desktop\Folder\Lessons\5_semestr\ТП, РПО\WpfToDoList\WpfToDoList\obj\Debug\WpfToDoList.pdb

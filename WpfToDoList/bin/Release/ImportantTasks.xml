@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfImportantTasksClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ImportantTasksClass>
+    <Task>Новая задача</Task>
+    <SubTask>Описание</SubTask>
+  </ImportantTasksClass>
+</ArrayOfImportantTasksClass>
